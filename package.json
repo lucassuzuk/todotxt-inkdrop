@@ -1,7 +1,7 @@
 {
   "name": "todotxt",
   "main": "./lib/todotxt",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Short script to sort task items as envisioned by Gina Trapani on her todotxt.com",
   "keywords": [],
   "repository": "https://github.com/lucassuzuk/todotxt-inkdrop",
