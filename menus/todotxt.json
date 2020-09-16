@@ -1,0 +1,124 @@
+{
+  "context-menu": {
+		".CodeMirror": [
+			{
+			  "label": "todotxt",
+			  "submenu": [
+				{
+				  "label": "Set priority",
+				  "submenu": [
+					{
+						"label": "A",
+						"command":"todotxt:setPriorityA"
+					},
+					{
+						"label": "B",
+						"command":"todotxt:setPriorityB"
+					},
+					{
+						"label": "C",
+						"command":"todotxt:setPriorityC"
+					},
+					{
+						"label": "D",
+						"command":"todotxt:setPriorityD"
+					},
+					{
+						"label": "E",
+						"command":"todotxt:setPriorityE"
+					},
+					{
+						"label": "F",
+						"command":"todotxt:setPriorityF"
+					},
+					{
+						"label": "G",
+						"command":"todotxt:setPriorityG"
+					},
+					{
+						"label": "H",
+						"command":"todotxt:setPriorityH"
+					},
+					{
+						"label": "I",
+						"command":"todotxt:setPriorityI"
+					},
+					{
+						"label": "J",
+						"command":"todotxt:setPriorityJ"
+					},
+					{
+						"label": "K",
+						"command":"todotxt:setPriorityK"
+					},
+					{
+						"label": "L",
+						"command":"todotxt:setPriorityL"
+					},
+					{
+						"label": "M",
+						"command":"todotxt:setPriorityM"
+					},
+					{
+						"label": "N",
+						"command":"todotxt:setPriorityN"
+					},
+					{
+						"label": "O",
+						"command":"todotxt:setPriorityO"
+					},
+					{
+						"label": "P",
+						"command":"todotxt:setPriorityP"
+					},
+					{
+						"label": "Q",
+						"command":"todotxt:setPriorityQ"
+					},
+					{
+						"label": "R",
+						"command":"todotxt:setPriorityR"
+					},
+					{
+						"label": "S",
+						"command":"todotxt:setPriorityS"
+					},
+					{
+						"label": "T",
+						"command":"todotxt:setPriorityT"
+					},
+					{
+						"label": "U",
+						"command":"todotxt:setPriorityU"
+					},
+					{
+						"label": "V",
+						"command":"todotxt:setPriorityV"
+					},
+					{
+						"label": "W",
+						"command":"todotxt:setPriorityW"
+					},
+					{
+						"label": "X",
+						"command":"todotxt:setPriorityX"
+					},
+					{
+						"label": "Y",
+						"command":"todotxt:setPriorityY"
+					},
+					{
+						"label": "Z",
+						"command":"todotxt:setPriorityZ"
+					}
+				  ]
+				},
+				{
+					"label": "Remove Priority",
+					"command":"todotxt:removePriority"
+				}
+			  ]
+			}
+		]
+	}
+}
