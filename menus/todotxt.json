@@ -114,8 +114,25 @@
 				  ]
 				},
 				{
-					"label": "Remove Priority",
+					"label": "Remove priority",
 					"command":"todotxt:removePriority"
+				},
+				{
+					"label": "Sort list",
+					"submenu": [
+						{
+							"label": "By priority",
+							"command":"todotxt:sortPriority"
+						},
+						{
+							"label": "By project",
+							"command":"todotxt:sortProject"
+						},
+						{
+							"label": "By context",
+							"command":"todotxt:sortContext"
+						}
+					]
 				}
 			  ]
 			}

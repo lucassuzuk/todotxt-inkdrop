@@ -1,7 +1,9 @@
-Simple plugin to organize task items as proposed by Gina Trapani on the [project's website](http://todotxt.org). The plugin is on very early development stage.
+Simple plugin to organize task items as proposed by Gina Trapani on the [project's website](http://todotxt.org).
 
 * [x] Set and remove priority
-* [ ] Sort list by priority, context or project
+* [x] Sort list by priority, context or project
+* [x] Move completed tasks to the end of the list
+* [ ] Option to move complted tasks to another note.
 
 **How to install**
 ```

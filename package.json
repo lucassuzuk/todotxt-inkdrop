@@ -2,7 +2,7 @@
   "name": "todotxt",
   "main": "./lib/todotxt",
   "version": "1.1.0",
-  "description": "Short script to sort task items as envisioned by Gina Trapani on her todotxt.com",
+  "description": "Short script to sort task items as envisioned by Gina Trapani on todotxt.org",
   "keywords": [],
   "repository": "https://github.com/lucassuzuk/todotxt-inkdrop",
   "license": "MIT",
