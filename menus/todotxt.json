@@ -133,10 +133,6 @@
 							"command":"todotxt:sortContext"
 						}
 					]
-				},
-				{
-					"label": "Organize completed",
-					"command":"todotxt:organizeCompleted"
 				}
 			  ]
 			}
